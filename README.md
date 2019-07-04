@@ -50,6 +50,7 @@ npm i -S react react-dom react-router-dom
 
 ## 目录结构描述
 
+```
 ├── README.md                   // README  
 ├── docs                        // for github page  
 ├── config                      // 配置  
@@ -65,8 +66,7 @@ npm i -S react react-dom react-router-dom
 │   └── index.js                
 ├── package.json                // package.json   
 └── .babelrc                    // babelrc  
-
-
+```
 
 
 
