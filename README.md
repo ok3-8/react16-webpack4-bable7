@@ -1,5 +1,5 @@
-# (React16,Webpack4, Babel7) => (<App />)（2019）
-
+# (React16,Webpack4, Babel7) => (	&lt;App /	&gt;)
+（2019）
 > React16.x+Webpack4.x+Babel7.x 搭建基础骨架
 
 ## 项目初始化
