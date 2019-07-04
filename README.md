@@ -1,5 +1,7 @@
 # (React16,Webpack4, Babel7) => (	&lt;App /	&gt;)
-（2019）
+
+::2019::
+
 > React16.x+Webpack4.x+Babel7.x 搭建基础骨架
 
 ## 项目初始化
@@ -48,21 +50,22 @@ npm i -S react react-dom react-router-dom
 
 ## 目录结构描述
 
-├── README.md                   // README
-├── docs                        // for github page
-├── config                      // 配置
-│   ├── webpack.base.conf       // 配置控制
-│   ├── webpack.dev.conf        // 开发环境
-│   └── webpack.prod.conf       // 生产环境
-├── src                         // 应用入口
-│   ├── assets                  
+├── README.md                   // README  
+├── docs                        // for github page  
+├── config                      // 配置  
+│   ├── webpack.base.conf       // 配置控制  
+│   ├── webpack.dev.conf        // 开发环境  
+│   └── webpack.prod.conf       // 生产环境  
+├── src                         // 应用入口  
+│   ├── assets                   
 │   ├── components              
 │   ├── style                   
 │   ├── App.jsx                 
 │   ├── index.html              
 │   └── index.js                
-├── package.json                // package.json 
-└── .babelrc                    // babelrc
+├── package.json                // package.json   
+└── .babelrc                    // babelrc  
+
 
 
 
