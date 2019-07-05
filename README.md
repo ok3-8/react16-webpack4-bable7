@@ -37,8 +37,8 @@ npm i file-loader url-loader style-loader css-loader babel-loader --save-dev
 
 项目安装`@babel/core` `@babel/preset-env` `@babel/preset-react`，同时安装`@babel/polyfill`
 ```
-npm i -D @babel/core @babel/preset-env @babel/preset-react
-npm i -S @babel/polyfill
+npm i @babel/core @babel/preset-env @babel/preset-react --save-dev
+npm i @babel/polyfill --save
 ```
 
 先来看一下主要的包，babel 7 对于包进行了一些简化。
@@ -52,12 +52,20 @@ npm i -S @babel/polyfill
 ## 安装 React16
 
 ```
-npm i -S react react-dom react-router-dom
+npm i react react-dom react-router-dom --save
 ```
 
 ## 说明
 
 其它配置看项目目录结构描述。
+
+```
+git clone .  
+
+npm install  
+npm run dev  
+npm run build  
+```
 
 ## 目录结构描述
 
@@ -81,8 +89,9 @@ npm i -S react react-dom react-router-dom
 
 
 
+## MIT License
 
-
+Copyright (c) 2019 The Art of ReactJs
 
 
 
