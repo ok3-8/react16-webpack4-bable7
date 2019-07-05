@@ -3,17 +3,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/react-16.8-green.svg">
   <img src="https://img.shields.io/badge/webpack-4-ff69b4.svg">
-  <img src="https://img.shields.io/badge/babel-7-ff69b4.svg">  
+  <img src="https://img.shields.io/badge/babel-7-e05959.svg">  
   <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
   <img src="https://img.shields.io/badge/now-2019-ded76a.svg">
 </p>
 
 
-# (React16,Webpack4, Babel7) => (	&lt;App /	&gt;)
-
-::2019::
+# (React16, Webpack4, Babel7) => (	&lt;App /	&gt;)
 
 > React16.x+Webpack4.x+Babel7.x 搭建基础骨架
+
+:: 2019 ::
 
 ## 项目初始化
 
